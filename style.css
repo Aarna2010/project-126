@@ -1,0 +1,25 @@
+body{
+    background-size:cover;
+    background-position: center;
+}
+
+.heading
+{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    font-variant: small-caps;
+    letter-spacing: 3px;
+    font-family: monospace;
+}
+
+.note
+{
+    font-size:14px;
+    color:rgb(11, 11, 11);
+    font-variant: none;
+    letter-spacing: 1px;
+    word-spacing: -2px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
